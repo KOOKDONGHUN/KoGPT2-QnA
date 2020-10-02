@@ -45,8 +45,10 @@ CUDA_VISIBLE_DEVICES=0 python train_torch.py --gpus 1 --train --max_epochs 2
 
 ```bash
 # CUDA_VISIBLE_DEVICES=0 python train.py --chat
-CUDA_VISIBLE_DEVICES=0 python train_torch.py --gpus 1 --chat```
+CUDA_VISIBLE_DEVICES=0 python train_torch.py --gpus 1 --chat
+```
 
 ## Reference
 ```bash
-https://github.com/haven-jeon/KoGPT2-chatbot```
+https://github.com/haven-jeon/KoGPT2-chatbot
+```
