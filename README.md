@@ -10,7 +10,7 @@
   - [Install](#install)
   - [How to Train](#how-to-train)
   - [How to Chat!](#how-to-chat)
-  - [Reference by](#Reference)
+  - [Reference](#Reference)
 
 <!-- /code_chunk_output -->
 
@@ -50,4 +50,3 @@ CUDA_VISIBLE_DEVICES=0 python train_torch.py --gpus 1 --chat```
 ## Reference
 ```bash
 https://github.com/haven-jeon/KoGPT2-chatbot```
-
